@@ -11,6 +11,8 @@ Amazon ECR (Image Repository)
    ↓
 Amazon ECS (Deployment)
 
+
+
 How It Works
 Developer pushes code to GitHub
 CodePipeline triggers automatically
