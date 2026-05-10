@@ -3,16 +3,12 @@ Implemented end-to-end CI/CD pipeline for Dockerized applications using AWS Code
       Source (GitHub)
          ↓
       CodePipeline
-
          ↓
       CodeBuild (buildspec.yml)
-
          ↓
       Docker Image Build
-
          ↓
       Amazon ECR (Image Repository)
-
          ↓
       Amazon ECS (Deployment)
 
