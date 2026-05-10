@@ -12,16 +12,20 @@ Implemented end-to-end CI/CD pipeline for Dockerized applications using AWS Code
          ↓
       Amazon ECS (Deployment)
 
-
-
 How It Works
+
 1=Developer pushes code to GitHub
+
 2=CodePipeline triggers automatically
+
 3=CodeBuild builds Docker image
+
 4=Image pushed to ECR
+
 5=ECS service updates with new image
 
 Download docker
+
 install AWS cli
 
       AWS configure
